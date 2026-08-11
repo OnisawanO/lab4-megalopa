@@ -1,0 +1,14 @@
+{
+  "group_members": "Ilham Khamseekhiew, Pakorn Hnusawang",
+  "section": 1,
+  "group": 4,
+  "fork_url": "https://github.com/OnisawanO/lab4-megalopa.git",
+  "github_username_for_push": "OnisawanO",
+  "model_pt": "student_work/models/sec01_group04_megalopa_yolo26n_best.pt",
+  "model_onnx": "student_work/models/sec01_group04_megalopa_yolo26n_best.onnx",
+  "Precision": 0.8431413398137422,
+  "Recall": 0.2717948717948718,
+  "mAP@50": 0.32934672334707726,
+  "mAP@50-95": 0.17292618898850212,
+  "Training time (seconds)": 105.09078694000004
+}
